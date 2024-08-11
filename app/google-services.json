@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35243461444",
+    "project_id": "testnotification-ace8c",
+    "storage_bucket": "testnotification-ace8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35243461444:android:704afc7f6c22ee509f6511",
+        "android_client_info": {
+          "package_name": "com.example.testnotificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZtMQB2g_PWKTmCNpNMQVuUtLTzawv-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
